@@ -1,0 +1,14 @@
+Graphs
+
+1.Topological Sorting
+method 1:Kahn's Algorithm
+method 2:Using DFS
+
+2.Euler Graph
+Euler path: atmost 2 vertex have odd degree(semi eulerian)
+
+Euler circuit: all vertices have even degree(eulerian)
+sum of all degrees is always even in an undirected grap
+
+eulerian and Eular graph link:
+https://www.youtube.com/watch?v=WY6Jsp3NxIk
